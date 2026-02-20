@@ -53,6 +53,7 @@ A small group of customers drives a large share of revenue.
 
 
 ## Dashboard
+https://github.com/emyjanebacaresas02-tech/Coffee-Sales-Analysis-Dashboard/blob/main/Screenshot%20(143).png
 
 https://github.com/emyjanebacaresas02-tech/Coffee-Sales-Analysis-Dashboard/blob/main/Screenshot%20(143).png
 
