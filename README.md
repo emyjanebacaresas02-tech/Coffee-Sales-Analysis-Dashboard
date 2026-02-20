@@ -49,3 +49,9 @@ Loyalty card customers contribute a significant portion of total sales.
 Certain coffee types show stronger performance across years.
 
 A small group of customers drives a large share of revenue.
+
+
+Dashboard
+
+https://drive.google.com/file/d/1JFcP4olkfZEa1ING3hLw3r7l3XcQCP2n/view?usp=sharing
+ 
