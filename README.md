@@ -1,4 +1,5 @@
-# Coffee-Sales-Analysis-Dashboard
+## Coffee-Sales-Analysis-Dashboard
+
 Project Overview
 This project analyzes coffee sales data using Microsoft Excel.
 An interactive dashboard was created using Pivot Tables, Pivot Charts, and Slicers to monitor sales performance, customer behavior, and product trends.
@@ -6,7 +7,7 @@ An interactive dashboard was created using Pivot Tables, Pivot Charts, and Slice
 
 
 
-****The dashboard allows filtering by:**
+## The dashboard allows filtering by:
 
 Year
 
@@ -14,7 +15,7 @@ Coffee Type
 
 Loyalty Card Status
 
-**🛠 Tools Used**
+## 🛠 Tools Used
 
 Microsoft Excel
 
@@ -26,7 +27,7 @@ Slicers
 
 KPI Metrics
 
-**📈 Key KPIs**
+## 📈 Key KPIs
 
 Total Sales
 
@@ -40,7 +41,7 @@ Loyalty Card Impact
 
 Sales Trend Over Time
 
-**🔍 Key Insights**
+## 🔍 Key Insights
 
 The United States generates the highest revenue among all countries.
 
@@ -51,7 +52,7 @@ Certain coffee types show stronger performance across years.
 A small group of customers drives a large share of revenue.
 
 
-Dashboard
+## Dashboard
 
 https://github.com/emyjanebacaresas02-tech/Coffee-Sales-Analysis-Dashboard/blob/main/Screenshot%20(143).png
 
