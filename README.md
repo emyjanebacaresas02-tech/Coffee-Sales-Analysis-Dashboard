@@ -53,5 +53,5 @@ A small group of customers drives a large share of revenue.
 
 Dashboard
 
-https://drive.google.com/file/d/1JFcP4olkfZEa1ING3hLw3r7l3XcQCP2n/view?usp=sharing
+
  
